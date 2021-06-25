@@ -1,0 +1,23 @@
+
+export const AUTH_REQUEST = 'AUTH_REQUEST';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const RESET_TOKEN = 'RESET_TOKEN';
+
+export const TOGGLE_LOGIN_SIGNUP_MODAL = 'TOGGLE_LOGIN_SIGNUP_MODAL';
+export const TOGGLE_DRAWER = 'TOGGLE_DRAWER';
+export const SET_MODAL_CONTENT = 'SET_MODAL_CONTENT';
+
+
+
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const REGISTER_FAIL= 'REGISTER_FAIL'
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL= 'LOGIN_FAIL'
+
+export const LOAD_USER_SUCCESS = 'LOAD_USER_SUCCESS'
+export const LOAD_USER_FAIL= 'LOAD_USER_FAIL'
+
+export const LOGOUT= 'LOGOUT'
