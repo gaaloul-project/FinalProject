@@ -16,7 +16,7 @@ class PageAddresses extends Component {
   render() {
     const { errors, values } = this.props;
 
-    console.log('hhhhhhhhhhh')
+    console.log('zzzzzz')
     return (
       <section>
         <S.WrapperHeader>
