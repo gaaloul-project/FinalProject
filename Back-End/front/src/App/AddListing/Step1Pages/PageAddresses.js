@@ -15,6 +15,8 @@ const options = countryList().getData();
 class PageAddresses extends Component {
   render() {
     const { errors, values } = this.props;
+
+    console.log('hhhhhhhhhhh')
     return (
       <section>
         <S.WrapperHeader>
